@@ -6,6 +6,7 @@
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 👋 About Me
+
 Hi there! I'm a backend developer focused on Python, with experience building web applications and APIs using FastAPI and Django. I'm passionate about writing clean, maintainable code and building efficient, scalable solutions.
 
 I also have knowledge of JavaScript, including Node.js and Express, which allows me to contribute to fullstack projects and better understand the full web development lifecycle.
@@ -25,7 +26,7 @@ I also have knowledge of JavaScript, including Node.js and Express, which allows
 
 <!-- LANGUAGES AND TOOLS -->
 
-## 🛠️ My Skills
+## 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Languages and Technologies
 - Languages:
