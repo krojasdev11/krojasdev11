@@ -1,13 +1,13 @@
 <h1> Hello < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Kevin+Rojas;Python+Developer+🐍">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Kevin+Rojas;Ruby on Rails Developer+💎">
 </p>
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 👋 About Me
 
-Hi there! I'm a backend developer focused on Python, with experience building web applications and APIs using FastAPI and Django. I'm passionate about writing clean, maintainable code and building efficient, scalable solutions.
+Hi there! I'm a backend developer focused on Ruby, with experience building web applications and APIs using FastAPI and Django. I'm passionate about writing clean, maintainable code and building efficient, scalable solutions.
 
 I also have knowledge of JavaScript, including Node.js and Express, which allows me to contribute to fullstack projects and better understand the full web development lifecycle.
 
