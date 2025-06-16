@@ -7,22 +7,22 @@
 
 👋 About Me
 
-Hi there! I'm a backend developer focused on Ruby, with experience building web applications and APIs using FastAPI and Django. I'm passionate about writing clean, maintainable code and building efficient, scalable solutions.
+Hi there! I'm a backend developer specialized in Ruby on Rails, passionate about building clean, maintainable, and scalable web applications.
 
-I also have knowledge of JavaScript, including Node.js and Express, which allows me to contribute to fullstack projects and better understand the full web development lifecycle.
+I have experience developing APIs and web systems using FastAPI and Django, and I also enjoy applying my knowledge of JavaScript (Node.js, Express) to collaborate on fullstack projects and understand the complete web development lifecycle.
 
-- 🛠️ Tech I'm working with:
+🛠️ Tech I'm working with:
+💎 Ruby on Rails (primary stack)
 
-- 🐍 Python – FastAPI, Django
+⚙️ JavaScript – Node.js, Express
 
-- ⚙️ JavaScript – Node.js, Express
+🐍 Python
 
-- 🌐 Web fundamentals (HTML, CSS, JS)
+🌐 Web fundamentals – HTML, CSS, JS
 
-- 🧪 Manual testing and clean code practices
+🧪 Manual testing & clean code practices
 
-- 🗃️ Relational databases (currently learning SQLite)
-
+🗃️ Relational databases (currently learning SQLite)
 
 <!-- LANGUAGES AND TOOLS -->
 
